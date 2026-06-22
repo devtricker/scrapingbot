@@ -1,1 +1,1 @@
-worker: python dns_bot.py
+worker: python bot.py
